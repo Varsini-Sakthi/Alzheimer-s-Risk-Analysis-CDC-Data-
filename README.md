@@ -18,7 +18,7 @@ sign of Alzheimer's disease and related dementias, and to translate the model in
 >>>>>>> 0db69df165cc449a27296c272bdfd5fc183e612a
 risk-stratification tool with concrete public health recommendations.
 
-**Read the full report:** [`report/Alzheimers_SCD_Risk_Analysis_Report.docx`](report/Alzheimers_SCD_Risk_Analysis_Report.docx)
+**Read the full report:** (report/Alzheimers_SCD_Risk_Analysis_Report.docx)
 
 ## ⚠️ Data disclosure
 
