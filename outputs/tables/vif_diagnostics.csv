@@ -1,0 +1,34 @@
+"term","VIF"
+"factor(survey_year)2016",1.67
+"factor(survey_year)2019",1.66
+"factor(survey_year)2017",1.66
+"factor(survey_year)2018",1.66
+"factor(survey_year)2020",1.65
+"age_group65-74",1.47
+"age_group55-64",1.41
+"income_bracket$25,000-$49,999",1.4
+"age_group75+",1.37
+"income_bracket<$25,000",1.36
+"educationSome college",1.35
+"educationHS graduate",1.34
+"income_bracket$50,000-$74,999",1.34
+"educationLess than HS",1.18
+"income_bracketMissing",1.09
+"hearing_loss",1.06
+"race_ethnicityHispanic",1.05
+"race_ethnicityBlack",1.05
+"living_alone",1.04
+"heart_disease",1.03
+"race_ethnicityAsian",1.03
+"hypertension",1.02
+"race_ethnicityMultiracial",1.02
+"social_isolation",1.02
+"race_ethnicityOther",1.01
+"race_ethnicityAIAN",1.01
+"stroke_history",1.01
+"depression",1.01
+"physically_inactive",1.01
+"diabetes",1
+"sleep_lt7hrs",1
+"binge_drinking",1
+"current_smoker",1

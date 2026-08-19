@@ -1,0 +1,10 @@
+"Metric","Value"
+"Test AUC",0.7107
+"CV AUC (mean)",0.6868
+"CV AUC (SD)",0.01
+"Brier Score",0.1015
+"Optimal Threshold",0.125
+"Sensitivity",0.6512
+"Specificity",0.6664
+"PPV",0.2187
+"NPV",0.9302

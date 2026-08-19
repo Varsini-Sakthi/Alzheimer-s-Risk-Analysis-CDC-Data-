@@ -1,0 +1,27 @@
+"Variable","Level","N","SCD_Prevalence_Pct"
+"Age group","45-54",12993,7.3
+"Age group","55-64",13862,9.9
+"Age group","65-74",10406,16
+"Age group","75+",6175,23.6
+"Sex","Male",19982,12.4
+"Sex","Female",23454,12.7
+"Race/Ethnicity","White",26895,12
+"Race/Ethnicity","Black",5316,13.7
+"Race/Ethnicity","Hispanic",6082,13.5
+"Race/Ethnicity","Asian",2176,13.1
+"Race/Ethnicity","AIAN",867,14.9
+"Race/Ethnicity","Multiracial",1224,12.7
+"Race/Ethnicity","Other",876,11.1
+"Education","College graduate+",13971,10.7
+"Education","Less than HS",4405,15.4
+"Education","HS graduate",11527,14.1
+"Education","Some college",13533,12.2
+"Income","$75,000+",12728,11.2
+"Income","<$25,000",9091,14
+"Income","$25,000-$49,999",11632,13.3
+"Income","$50,000-$74,999",8245,12
+"Income","Missing",1740,12.1
+"Chronic condition count","0",13885,7.8
+"Chronic condition count","1",18658,12.6
+"Chronic condition count","2",8938,17.3
+"Chronic condition count","3+",1955,24.1
