@@ -9,8 +9,8 @@
 
 This project applies multivariable logistic regression in **R** to six years (2015–2020) of respondent-level
 data structured on the CDC's **Behavioral Risk Factor Surveillance System (BRFSS) Cognitive Decline module**
-to identify independent predictors of **subjective cognitive decline (SCD)** — a self-reported early warning
-sign of Alzheimer's disease and related dementias — and to translate the model into an actionable population
+to identify independent predictors of **subjective cognitive decline (SCD)**, a self-reported early warning
+sign of Alzheimer's disease and related dementias, and to translate the model into an actionable population
 risk-stratification tool with concrete public health recommendations.
 
 **Read the full report:** [`report/Alzheimers_SCD_Risk_Analysis_Report.docx`](report/Alzheimers_SCD_Risk_Analysis_Report.docx)
@@ -21,10 +21,10 @@ CDC does not distribute identifiable BRFSS microdata through open, unauthenticat
 a **calibrated simulation**: a defined logistic data-generating process produces respondent records whose
 *marginal prevalence rates* are anchored to figures published in the peer-reviewed and CDC MMWR literature for
 the real Cognitive Decline module (11.2% overall SCD prevalence 2015–16, 13.8% among adults living alone, 15.2%
-among adults with chronic disease, etc. — see `data/00_generate_synthetic_brfss_data.R` for full citations and
+among adults with chronic disease, etc., see `data/00_generate_synthetic_brfss_data.R` for full citations and
 calibration targets). Every statistical method, diagnostic, and line of downstream code is identical to what
 would be applied to authentic microdata obtained under a CDC data use agreement. This is disclosed prominently
-in the report itself (Section 2.1) — this is a methods/skills demonstration, not a substitute for peer-reviewed
+in the report itself (Section 2.1), this is a methods/skills demonstration, not a substitute for peer-reviewed
 epidemiological findings.
 
 ## Key results
@@ -36,7 +36,7 @@ epidemiological findings.
 | Test-set AUC | 0.711 |
 | 10-fold CV AUC | 0.687 ± 0.01 |
 | Brier score | 0.102 |
-| Top modifiable risk factor (PAR%) | Depression — 11.8% of population SCD burden |
+| Top modifiable risk factor (PAR%) | Depression, 11.8% of population SCD burden |
 | High/Very-High risk tier | 31.2% of population, 6× the SCD rate of the Low tier |
 
 ## Repository structure
@@ -62,7 +62,7 @@ alzheimers-risk-project/
 
 ## Reproducing the analysis
 
-Requires R (base installation only — no third-party packages):
+Requires R (base installation only, no third-party packages):
 
 ```bash
 Rscript data/00_generate_synthetic_brfss_data.R
